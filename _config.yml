@@ -1,7 +1,7 @@
 name: mercuriongroup
 favicon: null
 layout_spectrum: 0.7653886855114251
-typography_spectrum: 0.07221257919445634
+typography_spectrum: 0.60763
 title: Welcome to the Mercurion Group
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#682b0c'
+    - '#b96c52'
+    - '#5f6d70'
+    - '#7cafee'
+    - '#ddfbfd'
   brandStrength: 0.059339771745726466
   lightness: 0.6707468775566667
-  saturation: 0.5639803141821176
+  saturation: 0.5
   rhythmicContrast: 0.7457856275141239
 purpose: []
