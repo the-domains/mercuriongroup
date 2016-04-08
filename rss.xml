@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mercuriongroup]]></title>
         <description><![CDATA[mercuriongroup]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mercuriongroup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 14:32:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 15:00:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mercuriongroup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Software. Services. Support. Made Simple.</p>]]></description>
-            <link>undefinedec8c24ff-457f-400d-9f9d-a9bed1347551/index.html</link>
+            <link>https://thegrid.ai/mercuriongroup/software-services-support-made-simple/index.html</link>
+            <guid isPermaLink="false">42351cf3-c619-4f99-9a43-7739e326c4d0</guid>
+            <pubDate>Fri, 08 Apr 2016 14:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Software. Services. Support. Made Simple.</p>]]></description>
+            <link>https://thegrid.ai/mercuriongroup/ec8c24ff-457f-400d-9f9d-a9bed1347551/index.html</link>
             <guid isPermaLink="false">ec8c24ff-457f-400d-9f9d-a9bed1347551</guid>
             <pubDate>Fri, 08 Apr 2016 14:32:52 GMT</pubDate>
         </item>
